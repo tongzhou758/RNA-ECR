@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@connect.westc.seetacloud.com:52671 password (4)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@connect.westb.seetacloud.com:49165 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/ERNIE-RNA-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:43587 password (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/ERNIE-RNA-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:43587 password (6)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/ERNIE-RNA-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:43587 password (7)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/ERNIE-RNA-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:43587 password (8)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/ERNIE-RNA-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.seetacloud.com:52671 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/ERNIE-RNA-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.seetacloud.com:52671 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/ERNIE-RNA-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.seetacloud.com:52671 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/ERNIE-RNA-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.seetacloud.com:52671 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/ERNIE-RNA-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
